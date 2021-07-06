@@ -1,2 +1,2 @@
-# dns-server-
-dns-client server 
+# dns-server
+dns-client server communications 
